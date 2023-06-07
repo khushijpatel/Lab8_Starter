@@ -9,3 +9,6 @@
 ## Test Results: 
 ![Unit and sum tests](testspassunitsum.png)
 ![Lab 8 tests](testspasslab8.png)
+
+## Deployment:
+[Deployment](https://khushijpatel.github.io/Lab8_Starter/)
